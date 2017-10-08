@@ -1,2 +1,2 @@
 # PythonExercise
-Exercise code for Python tutorial 
+# this project is Exercise code for Python tutorial 
