@@ -5,3 +5,5 @@ def test_sumofevennumber():
 	assert ( sum1.sumEvenNum()==110)
 	sum2=SumEvenNum(30,60)
 	assert (sum2.sumEvenNum() == 720)
+	sum2=SumEvenNum(1,10)
+	assert (sum2.sumEvenNum() == 30)
