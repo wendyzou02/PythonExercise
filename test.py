@@ -1,4 +1,3 @@
-import pytest
 from sumEvenNumber import SumEvenNum
 
 def test_sumofevennumber():
